@@ -1,0 +1,19 @@
+south
+out
+get ball
+throw ball
+get key
+in
+east
+unlock door
+east
+get moose
+west
+west
+west
+get bone
+east
+play tug of war with popeye
+north
+give bone to yogi
+hand over popeye
